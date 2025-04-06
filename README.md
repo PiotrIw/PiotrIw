@@ -73,12 +73,7 @@
 
 ### 📫 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-link) *(replace with actual link if desired)*
-- 💬 Reach me via GitHub or email for freelance opportunities!
-
----
-
-> _“Clean code always looks like it was written by someone who cares.” – Robert C. Martin_
+- 💬 Reach me via GitHub for freelance opportunities!
 
 ---
 
