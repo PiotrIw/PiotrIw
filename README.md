@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Piotr 👋</h1>
 
 <p align="center">
-  <em>Freelance Developer working on custom solutions for different customers</em>  
+  <em>Freelance Developer working on custom e2e solutions for different customers</em>  
 </p>
 
 ---
